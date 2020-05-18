@@ -1,0 +1,6 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('Au10tixSDK-1.0.3.32.aar'))
+
+
+
+

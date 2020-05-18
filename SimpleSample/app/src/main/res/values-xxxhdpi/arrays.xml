@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="detectionOptions">
+        <item>Face Detection</item>
+        <item>Document Detection</item>
+        <item>Barcode Detection</item>
+        <item>Liveness Detection</item>
+        <item>Liveness2 Detection</item>
+        <item>Custom Quality Indication</item>
+        <item>Custom Controls</item>
+        <item>Custom Liveness2</item>
+
+    </string-array>
+    <string-array name="detectionOptionsDescriptions">
+        <item>This example presents the Face Detector\'s default implementation.</item>
+        <item>This example presents the Document Detector\'s default implementation.</item>
+        <item>This example presents the Barcode Detector\'s default implementation.</item>
+        <item>This example presents the old Liveness Detector\'s default implementation.</item>
+        <item>This example presents the new Liveness Detector\'s default implementation, including the default user interface for challenge presentation. \n\nFor the best results, remove your glasses, make long and fluid motions, and conduct this detection in a well-lit environment.</item>
+        <item>This example presents a Document Detector implementation for custom quality indication, providing separate and specific quality parameter indications.</item>
+        <item>This example presents a Face Detector implementation with a customized control view.</item>
+        <item>This example presents a custom Liveness detection implementation that overrides the default implementation entirely.\n\nFor the best results, remove your glasses, make long and fluid motions, and conduct this detection in a well-lit environment.</item>
+
+    </string-array>
+</resources>

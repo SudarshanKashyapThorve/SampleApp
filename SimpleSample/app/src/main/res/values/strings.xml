@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AU10Sample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_camera_rationale">Camera permission is mandatory</string>
+    <string name="capture">Capture button</string>
+    <string name="back_button">Back button</string>
+    <string name="toggle_button">Toggle button</string>
+    <string name="tix_reflection">Reflection</string>
+    <string name="tix_brightness">Brightness</string>
+    <string name="tix_sharpness">Sharpness</string>
+    <string name="tix_timeout">Test timed out</string>
+
+    <string name="tix_face_forward">Face Forward</string>
+    <string name="tix_turn_right">Turn Right</string>
+    <string name="tix_turn_left">Turn Left</string>
+    <string name="tix_close_eyes">Close Eyes</string>
+    <string name="tix_smile">Smile</string>
+    <string name="tix_test_ended">Test Ended</string>
+    <string name="tix_face_missing">Face not found</string>
+    <string name="tix_face_too_small">Face is too far</string>
+    <string name="tix_face_too_large">Face is too near</string>
+    <string name="tix_permissions_required">Enable the required permissions from the settings menu</string>
+
+    <string name="resultsuff">Result</string>
+    <string name="tix_image_quality">Image Quality</string>
+    <string name="tix_error">Error: Could not perform Liveness2 detection</string>
+    <string name="tix_custom_controls">Custom controls</string>
+    <string name="tix_au10tix_logo">Au10tix logo</string>
+    <string name="tix_captured_photo">captured photo</string>
+    <string name="tix_barcode_data">Barcode Data: </string>
+    <string name="tix_barcode_data_content">Barcode data content</string>
+    <string name="tix_tracking_lost">Tracking lost</string>
+    <string name="tix_challenge_type">Type</string>
+</resources>

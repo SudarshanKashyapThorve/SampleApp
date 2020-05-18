@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+   <!--     <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+    <style name="ResultTheme" parent="android:ThemeOverlay.Material.Dark">
+        <!--     <item name="colorPrimary">@color/colorPrimary</item>
+             <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+             <item name="colorAccent">@color/colorAccent</item>-->
+    </style>
+</resources>
